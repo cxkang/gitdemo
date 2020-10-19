@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
 @RequestMapping("/info")
     public String info(){
-        return "git   demo";
+        return "git   demo  项目经理";
     }
     //test  开发人员提交的；
 
